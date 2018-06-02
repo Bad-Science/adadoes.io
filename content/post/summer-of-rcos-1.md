@@ -45,5 +45,5 @@ Until next time,
 
 Ada
 
-**edit 6/1/18: I wrote a less personal, and higher quality version of this post
-**[on the RCOS blog](https://blog.rcos.io/2018/summer-of-rcos/)
+**edit 6/1/18**: I wrote a less personal, and higher quality version of this post
+[on the RCOS blog](https://blog.rcos.io/2018/summer-of-rcos/)
