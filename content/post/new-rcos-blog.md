@@ -1,7 +1,7 @@
 ---
 title: "Introducing BLOG.RCOS.IO"
 date: 2018-06-01T19:48:22-04:00
-draft: true
+draft: false
 ---
 
 Something I'm very exciting about happened recently! We finally have an official
