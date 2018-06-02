@@ -1,7 +1,7 @@
 ---
 title: "Summer of RCOS 1"
 date: 2018-05-21T18:16:43-04:00
-draft: true
+draft: false
 ---
 
 So I'm going to be writing a number of catching-up blog posts about RCOS over
